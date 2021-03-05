@@ -1,0 +1,14 @@
+  body {
+    background-color: brown;
+    color: white;
+}
+  ul {
+    text-align: center;
+}
+    button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #87ceeb;
+    color: black;
+    font-size: 15px;
+  }
